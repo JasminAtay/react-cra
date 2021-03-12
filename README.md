@@ -1,3 +1,7 @@
+# faker
+```yarn add faker```
+for random images, texts and user names
+
 # gh-pages
 
 ```yarn add -D gh-pages```
